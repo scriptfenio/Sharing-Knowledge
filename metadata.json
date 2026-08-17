@@ -1,0 +1,7 @@
+{
+  "name": "Plataforma SK - ISAF (Suporte do Saber)",
+  "description": "Plataforma académica do Grupo SK para conexão de estudantes do ISAF com tutores em Contabilidade e Finanças, Gestão Bancária & Seguros e Informática de Gestão Financeira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
